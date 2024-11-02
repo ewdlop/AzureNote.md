@@ -1,0 +1,1 @@
+https://samples.azuremaps.com/
